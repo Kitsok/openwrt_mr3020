@@ -47,6 +47,7 @@ on,n150r)
 	ucidef_set_led_switch "lan2" "LAN2" "green:lan2" "switch0" "0x04" "0x0f"
 	;;
 tplink,tl-mr3020-v1|\
+tplink,tl-mr3020-v1-16|\
 tplink,tl-mr3040-v2|\
 tplink,tl-wa701nd-v1|\
 tplink,tl-wa730re-v1|\
